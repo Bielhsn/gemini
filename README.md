@@ -100,4 +100,4 @@ Exemplo de Requisição:
 }
 ```
 ## 🌟 Saiba Mais
-- **Post do Projeto**: 
+- **Post do Projeto**: https://www.linkedin.com/posts/gabriel-henrique-2631931b2_projetogemini-backend-apis-activity-7282540519652515840-pwEg?utm_source=share&utm_medium=member_desktop
